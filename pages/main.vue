@@ -89,7 +89,9 @@
         </nav>
       </div>
       <div class=" text-gray-900 dark:text-gray-300">
+        <div class="container mx-auto p-6">
         <NuxtChild />
+        </div>
       </div>
     </div>
   </div>
